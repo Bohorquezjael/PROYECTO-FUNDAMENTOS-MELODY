@@ -1,0 +1,140 @@
+China, Asia, 1412000000, 14723
+Estados Unidos, América, 331000000, 23016
+Rusia, Europa, 145000000, 4327
+Nigeria, África, 211000000, 514.05
+Australia, Oceanía, 25700000, 1390.2
+India, Asia, 1366000000, 3202
+Indonesia, Asia, 276000000, 1225
+Brasil, América, 213000000, 2588
+Pakistán, Asia, 225000000, 347.5
+Bangladés, Asia, 166000000, 375.88
+México, América, 129000000, 1388
+Japón, Asia, 125000000, 6393
+Filipinas, Asia, 111000000, 399.375
+Egipto, África, 104000000, 394.284
+Etiopía, África, 117000000, 96.91
+Vietnam, Asia, 97000000, 340
+República Democrática del Congo, África, 101780263, 51.01
+Turquía, Asia, 85000000, 784.3
+Irán, Asia, 85000000, 640.9
+Alemania, Europa, 83783942, 4412
+Tailandia, Asia, 69183173, 596.3
+Reino Unido, Europa, 68207116, 3165.8
+Francia, Europa, 65273511, 3037.8
+Italia, Europa, 60461826, 2141.7
+Tanzania, África, 59734218, 62.2
+Myanmar, Asia, 54810000, 76.01
+Corea del Sur, Asia, 51780579, 2033.6
+Colombia, América, 50976248, 323.3
+Kenia, África, 49699862, 95.5
+España, Europa, 46754778, 1754.8
+Argentina, América, 45940235, 427.4
+Sudáfrica, África, 59779850, 371.3
+Argelia, África, 43900000, 188
+Sudán, África, 44754000, 77.5
+Ucrania, Europa, 43733762, 180.7
+Uganda, África, 45856000, 35.1
+Irak, Asia, 40670800, 206.7
+Polonia, Europa, 38483000, 595.4
+Canadá, América, 37590000, 1884
+Marruecos, África, 36600000, 124.6
+Afganistán, Asia, 32900000, 74.1
+Arabia Saudita, Asia, 34600000, 815.8
+Perú, América, 33000000, 226.2
+Uzbekistán, Asia, 33700000, 72.9
+Venezuela, América, 28700000, 65.4
+Malasia, Asia, 32500000, 372.9
+Ghana, África, 31000000, 75.6
+Nepal, Asia, 29900000, 34.7
+Mozambique, África, 31255435, 15.54
+Yemen, Asia, 29800000, 27.2
+Madagascar, África, 27691018, 12.92
+Camerún, África, 26700000, 34.1
+Costa de Marfil, África, 25823071, 58.6
+Níger, África, 24000000, 11.8
+Sri Lanka, Asia, 21803000, 84.0
+Burkina Faso, África, 20244080, 15.9
+Malawi, África, 19990000, 7.5
+Mali, África, 20250000, 17.8
+Chile, América, 19400000, 298.1
+Kazajistán, Asia, 18900000, 184.4
+Siria, Asia, 17500000, 22.4
+Rumania, Europa, 19300000, 264.1
+Burkina Faso, África, 20244080, 15.9
+Chile, América, 19400000, 298.1
+Kazajistán, Asia, 18900000, 184.4
+Zambia, África, 18383955, 25.6
+Guatemala, América, 17500000, 79.4
+Ecuador, América, 17600000, 110.5
+Países Bajos, Europa, 17000000, 1000
+Senegal, África, 16700000, 22.4
+Somalia, África, 15893222, 5.3
+Chad, África, 15692969, 12.4
+Zimbabue, África, 15159624, 34.0
+Guinea, África, 13442424, 13.5
+Ruanda, África, 13252729, 10.3
+Túnez, África, 12000000, 39.4
+Benín, África, 12123198, 28.8
+Bélgica, Europa, 11589623, 533.2
+Grecia, Europa, 10423054, 209.8
+Cuba, América, 11300000, 100.0
+Bolivia, América, 11400000, 43.0
+Haití, América, 11200000, 12.2
+Portugal, Europa, 10200000, 239.5
+Jordania, Asia, 10200000, 44.0
+Suecia, Europa, 10175214, 586.2
+Emiratos Árabes Unidos, Asia, 10100000, 414.2
+Honduras, América, 10000000, 25.9
+Austria, Europa, 9000000, 487.6
+Suiza, Europa, 8715000, 724.6
+Israel, Asia, 9010000, 402.7
+Togo, África, 8329153, 14.2
+Sierra Leona, África, 7976983, 3.9
+Hong Kong, Asia, 7513600, 366.0
+Laos, Asia, 7310000, 18.5
+Paraguay, América, 7152703, 45.1
+Bulgaria, Europa, 6948445, 65.9
+Líbano, Asia, 6863995, 57.0
+Libia, África, 6777452, 51.8
+Nicaragua, América, 6624554, 13.1
+El Salvador, América, 6411551, 26.4
+Kyrgyzstan, Asia, 6533500, 8.5
+Singapur, Asia, 5607300, 372.1
+Dinamarca, Europa, 5615948, 370.7
+Finlandia, Europa, 5540720, 278.1
+Congo, África, 5518087, 11.7
+Eslovaquia, Europa, 5456362, 110.1
+Noruega, Europa, 5387945, 434.8
+Omán, Asia, 5296993, 82.2
+Estado de Palestina, Asia, 5222144, 17.2
+Costa Rica, América, 5111239, 63.1
+Nueva Zelanda, Oceanía, 5105000, 206.1
+Liberia, África, 5057681, 3.2
+Irlanda, Europa, 4977400, 396.8
+Central African Republic, África, 4844927, 3.2
+Kuwait, Asia, 4640400, 137.5
+Panamá, América, 4444000, 66.8
+Mauritania, África, 4403319, 6.3
+Croacia, Europa, 4087843, 65.9
+Moldova, Europa, 4043263, 12.5
+Georgia, Asia, 3989167, 17.1
+Eritrea, África, 3651205, 3.5
+Uruguay, América, 3461734, 59.2
+Mongolia, Asia, 3289000, 13.5
+Amenia, Asia, 2963243, 13.9
+Jamaica, América, 2881355, 15.7
+Qatar, Asia, 2759000, 183.8
+Albania, Europa, 2837743, 16.5
+Puerto Rico, América, 2830350, 104.8
+Lithuania, Europa, 2722289, 56.6
+Namibia, África, 2540905, 14.5
+Botswana, África, 2392859, 17.6
+Gabón, África, 2172579, 16.5
+Lesotho, África, 2142249, 2.7
+Macedonia del Norte, Europa, 2075301, 13.8
+Eslovenia, Europa, 2078938, 64.9
+Gambia, África, 2100568, 2.0
+Guinea-Bissau, África, 2036764, 1.5
+Letonia, Europa, 1910100, 34.8
+Kosovo, Europa, 1810366, 8.3
+Kosovo, Europa, 1810366, 8.3
